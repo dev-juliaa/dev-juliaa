@@ -1,11 +1,18 @@
 <h1 align="center">Olá, Sou a Júlia! Desenvolvedora Web Fullstack</h1>
 <h3 align="center">Uma desenvolvedora que sempre está em busca da evolução</h3>
 
-- 📄 <h4>Minhas Experiências</h4>
--
-- [Estagiária em Suporte Ti numa Superintendência do GovernoBR, cursando Ciência Da Computação e evoluindo em Back-end, mais especificamente em Python e Java]
+<h4> 📄 Minhas Experiências </h4>
 
-- ⚡ Curiosidades Curiosas **sou viciada em desenhos, jogos e engenharias. Adoro destruir coisas para contrui-lás novamente, tanto que estou na equipe de robótica da faculdade. Também sou apaixonada por animais! porém tenho medo de insetos, mas nunca mexo com eles! (aprendi minha lição com aquela abelha)**
+<strong>Estagiária em Suporte Ti numa Superintendência do Governo,
+curso Ciência Da Computação e estou no momento querendo evoluir em Back-end.
+Mais especificamente em Python e Java </strong>
+
+<h4>⚡ Curiosidades Curiosas </h4>
+
+**sou viciada em desenhos, jogos e engenharias.
+Adoro contruir coisas do zero e faço parte do club de robótica da faculade. 
+Também sou apaixonada por animais! porém tenho medo de insetos, mas nunca mexo com eles! 
+(aprendi minha lição com aquela abelha)**
 
 <h3 align="left">Conecte-se comigo em outras redes!:</h3>
 <p align="left">
