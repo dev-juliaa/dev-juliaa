@@ -1,6 +1,6 @@
 # Olá devs, sou Júlia! 👋
 
-Uma desenvolvedora que sempre está em busca da evolução
+Uma desenvolvedora que está sempre em busca da evolução
 
 ## Mais sobre mim
 
