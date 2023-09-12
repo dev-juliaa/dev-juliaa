@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Sou a Júlia! Desenvolvedora Web Fullstack</h1>
+<h1 align="center">Olá, Sou a Júlia! Seja bem vindo! </h1>
 <h3 align="center">Uma desenvolvedora que sempre está em busca da evolução</h3>
 
 <h4> 📄 Minhas Experiências </h4>
